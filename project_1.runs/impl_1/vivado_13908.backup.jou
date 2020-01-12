@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Tue Nov 27 13:53:17 2018
+# Process ID: 2356
+# Log file: D:/fpga/xilinix/projects/project_1/project_1.runs/impl_1/twotoone.vdi
+# Journal file: D:/fpga/xilinix/projects/project_1/project_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source twotoone.tcl -notrace
